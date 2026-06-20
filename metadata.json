@@ -1,0 +1,8 @@
+{
+  "name": "Speaker Portal",
+  "description": "A premium dashboard and management portal for speakers, events, attendees, and messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
