@@ -29,7 +29,7 @@ export const SettingsView: React.FC<SettingsViewProps> = ({
 
   // Profile forms
   const [adminName, setAdminName] = useState('Portal Admin');
-  const [adminEmail, setAdminEmail] = useState('yeabmesfin0@gmail.com');
+  const [adminEmail, setAdminEmail] = useState('kidusfikru0@gmail.com');
   const [orgName, setOrgName] = useState('Global Speakers Network Inc.');
 
   // Toggle state variables

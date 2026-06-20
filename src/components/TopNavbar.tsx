@@ -179,7 +179,7 @@ export const TopNavbar: React.FC<TopNavbarProps> = ({
                 Admin Panel
               </span>
               <span className="text-[10px] text-zinc-500 dark:text-zinc-400 block mt-0.5 font-mono">
-                yeabmesfin0@gmail.com
+                kidusfikru0@gmail.com
               </span>
             </div>
             <ChevronDown className="w-3.5 h-3.5 text-zinc-400 hidden sm:block" />
@@ -192,7 +192,7 @@ export const TopNavbar: React.FC<TopNavbarProps> = ({
                   Logged in as
                 </span>
                 <span className="text-xs font-semibold text-zinc-900 dark:text-zinc-50 block mt-1 truncate">
-                  yeabmesfin0@gmail.com
+                  kidusfikru0@gmail.com
                 </span>
               </div>
               
